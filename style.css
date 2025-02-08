@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(233, 237, 241);
+}
+.btn-primary {
+  background-color: rgb(132, 132, 161);
+  border: none;
+}
+.text-desc {
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  margin: 30px;
+}
+.lead {
+  justify-content: center;
+  justify-items: center;
+}
+#image {
+  width: 600px;
+  height: 400px;
+  box-shadow: 1rem;
+}
